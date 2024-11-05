@@ -10,7 +10,7 @@ I'm a passionate tech enthusiast and engineering student with a strong foundatio
 - **Languages**: JavaScript, TypeScript, Python, C/C++, Java, SQL (PostgreSQL, MySQL), HTML, CSS, Rust  
 - **Frameworks**: ReactJS, NextJS, NodeJS, ExpressJS, WebSocket, Tailwind CSS, MaterialUI, Bootstrap  
 - **Tools**: Nginx, Docker, Git & GitHub  
-- **Electronics**: ESP3, MIPS, Verilog, VHDL, MATLAB, Simulink, Multisim  
+- **Electronics**: ESP32, MIPS, Verilog, VHDL, MATLAB, Simulink, Multisim  
 - **Other Skills**: Project management, API development, Database design
 
 ## 📚 Interests
