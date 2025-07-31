@@ -10,9 +10,9 @@ I'm an engineering student and a passionate tech enthusiast.
 - **Other Skills**: Prototyping
 
 ## 📚 Interests (& whys)
-- **Computer Architecture**: Seemed Difficult.
+- **Computer Architecture & OS**: Seemed Difficult.
 - **Machine Learning**: I Like Maths.
-- **DevOps & Cloud Technologies**: Seemed Cool.
+- **System Design**: Seemed Cool.
 
 ## 💬 Let's Connect
 I'm always eager to collaborate on projects, share ideas, and discuss the latest trends in technology. Feel free to reach out if you’d like to connect!
